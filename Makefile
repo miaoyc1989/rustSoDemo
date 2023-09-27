@@ -9,7 +9,7 @@ build:
 test:
 	cargo test
 
-push:
-	# push origin
+run:
+	cargo run
 
 .PHONY: build
